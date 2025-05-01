@@ -54,5 +54,5 @@ A templated **Linked List** with:
 ## 📚 Course Information
 - **Course**: Data Structures
 - **Language**: C++
-- **Instructor**: [Optional if needed]
+- **Instructor**: [Ahmad awwad]
 - **University**: An-Najah National University
