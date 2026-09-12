@@ -1,4 +1,4 @@
-﻿# Data Structures â€” C++ Implementations
+# Data Structures — C++ Implementations
 
 A collection of homework and assignment submissions from the Data Structures course at An-Najah National University. Each sub-directory is a self-contained C++ program demonstrating a specific data structure or algorithm concept. All projects were developed with Visual Studio (`.sln` / `.vcxproj` files included).
 
@@ -69,3 +69,5 @@ Or open the corresponding `.sln` file in Visual Studio and press **Ctrl+F5**.
 Copyright © 2026 Ali Yaqoub. All rights reserved.
 
 This software and its contents are proprietary. Unauthorized copying, distribution, modification, or commercial use is prohibited without prior written permission from the copyright holder.
+
+See the [LICENSE](./LICENSE) file for the full notice.
