@@ -1,4 +1,4 @@
-# Data Structures — C++ Implementations
+﻿# Data Structures â€” C++ Implementations
 
 A collection of homework and assignment submissions from the Data Structures course at An-Najah National University. Each sub-directory is a self-contained C++ program demonstrating a specific data structure or algorithm concept. All projects were developed with Visual Studio (`.sln` / `.vcxproj` files included).
 
@@ -25,16 +25,16 @@ A collection of homework and assignment submissions from the Data Structures cou
 
 ```
 Data-Structures-Project/
-├── Task3/
-│   └── Task3.cpp              # Postfix evaluator
-├── HW111/
-│   └── HW#111.cpp             # Polynomial class
-├── HW222/
-│   └── HW222.cpp              # Shape hierarchy
-├── Assignment4/
-│   └── Assignment#4.cpp       # Templated Deque
-└── DS/
-    └── DS.cpp                 # Templated LinkedList
+â”œâ”€â”€ Task3/
+â”‚   â””â”€â”€ Task3.cpp              # Postfix evaluator
+â”œâ”€â”€ HW111/
+â”‚   â””â”€â”€ HW#111.cpp             # Polynomial class
+â”œâ”€â”€ HW222/
+â”‚   â””â”€â”€ HW222.cpp              # Shape hierarchy
+â”œâ”€â”€ Assignment4/
+â”‚   â””â”€â”€ Assignment#4.cpp       # Templated Deque
+â””â”€â”€ DS/
+    â””â”€â”€ DS.cpp                 # Templated LinkedList
 ```
 
 Each directory also contains Visual Studio project files (`.sln`, `.vcxproj`) which can be ignored when compiling from the command line.
@@ -63,3 +63,9 @@ Or open the corresponding `.sln` file in Visual Studio and press **Ctrl+F5**.
 ---
 
 *Software Engineering degree, An-Najah National University*
+
+## License & copyright
+
+Copyright © 2026 Ali Yaqoub. All rights reserved.
+
+This software and its contents are proprietary. Unauthorized copying, distribution, modification, or commercial use is prohibited without prior written permission from the copyright holder.
